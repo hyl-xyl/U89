@@ -1,7 +1,8 @@
-package ¹Ìº¬Á¿½üÁ½;
+package å›ºå«é‡è¿‘ä¸¤;
 
 public class huhu {
- private void Syso("ºñ¶ÈµÄµÜµÜ") ;
-	// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
+ private void Syso("åšåº¦çš„å¼Ÿå¼Ÿ") ;
+	// TODO è‡ªåŠ¨ç”Ÿæˆçš„æ–¹æ³•å­˜æ ¹
+Syso å›°éš¾å…‹æœç´¢æ‹‰å¡1lsfï¼›
 
 }
